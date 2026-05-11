@@ -1,4 +1,4 @@
-# TubeLite//SEC
+crying-tubelight-os
 
 A cybersecurity-hardened smart tubelight running TubeLite OS.
 
